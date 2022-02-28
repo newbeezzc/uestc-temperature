@@ -20,7 +20,7 @@
     "data": {
       "healthCondition": "正常",
       "todayMorningTemperature": "36.5°C~36.9°C",
-      "location": "四川省成都市郫都区丹桂路",
+      "location": "四川省成都市郫都区学知苑9号",
       "healthColor": "绿色"
     },
     "description": "在校学生数据"
@@ -35,7 +35,7 @@
     "method": "POST",
     "url": "https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/monitorRegister",
     "data": {
-      "currentAddress": "江苏省苏州市常熟市",
+      "currentAddress": "湖南省长沙市雨花区",
       "remark": "",
       "healthInfo": "正常",
       "healthColor": "绿色",
@@ -45,9 +45,9 @@
       "isLeaveChengdu": 1,
       "isSymptom": 0,
       "temperature": "36.5°C~36.9°C",
-      "province": "江苏省",
-      "city": "苏州市",
-      "county": "常熟市"
+      "province": "湖南省",
+      "city": "长沙市",
+      "county": "雨花区"
     },
     "description": "离校学生数据"
   }
